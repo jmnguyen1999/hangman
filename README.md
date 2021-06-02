@@ -3,6 +3,7 @@ This is a re-creation of the classic game: Hangman! Made with Python and played 
 
 ## Demo of Play:
 ![Demo](demo-play.gif)
+**NOTE: A phrase is only a valid guess when it is a legitmate guess! i.e. the size of the guessed phrase = the size of the solution!
 
 ### Technologies Used:
 - Language: Python
